@@ -1,0 +1,9 @@
+[{"key":"params","value":"%7B%22search%22:%22%22,%22tipeOrder%22:%22akhir%22,%22ascending%22:%22desc%22,%22orderBy%22:null,%22kcd%22:null,%22satuan%22:null,%22sekolah%22:null,%22tipe%22:null,%22nm_gol%22:[],%22all_zscore%22:null,%22zindex%22:[-10,10],%22usia%22:[18,70],%22zscoreColor%22:[],%22indikator%22:[],%22indikatorAkhir%22:[],%22zscoreColorAkhir%22:[],%22tipe_pegawai%22:null%7D","equals":true,"description":"","enabled":true}]
+
+
+Params: 
+params : %7B%22search%22:%22%22,%22tipeOrder%22:%22akhir%22,%22ascending%22:%22desc%22,%22orderBy%22:null,%22kcd%22:null,%22satuan%22:null,%22sekolah%22:null,%22tipe%22:null,%22nm_gol%22:[],%22all_zscore%22:null,%22zindex%22:[-10,10],%22usia%22:[18,70],%22zscoreColor%22:[],%22indikator%22:[],%22indikatorAkhir%22:[],%22zscoreColorAkhir%22:[],%22tipe_pegawai%22:null%7D 
+page, 
+perpage, 
+kinerja_session_id, 
+browser_id
